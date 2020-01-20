@@ -13,6 +13,6 @@
         enableHighAccuracy: true
     },
     trackUserLocation: true,
-    showUserLocation: false
+    showUserLocation: true
 }));
 
